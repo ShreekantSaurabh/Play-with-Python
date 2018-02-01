@@ -1,0 +1,46 @@
+bhagavan@foreman:~/.../python/class/R-telnet$ telnet 192.168.1.254
+Trying 192.168.1.254...
+Connected to 192.168.1.254.
+Escape character is '^]'.
+Ubuntu 14.04.2 LTS
+auras login: bhagavan
+Password: 
+Last login: Tue Jun  6 10:26:33 IST 2017 from 192.168.1.250 on pts/0
+Welcome to Ubuntu 14.04.2 LTS (GNU/Linux 3.16.0-30-generic i686)
+
+ * Documentation:  https://help.ubuntu.com/
+
+  System information as of Tue Jun  6 10:26:34 IST 2017
+
+  System load:  0.16                Processes:           155
+  Usage of /:   16.4% of 145.16GB   Users logged in:     0
+  Memory usage: 44%                 IP address for eth0: 192.168.1.254
+  Swap usage:   5%
+
+  => There is 1 zombie process.
+
+  Graph this data and manage this system at:
+    https://landscape.canonical.com/
+
+449 packages can be updated.
+333 updates are security updates.
+
+New release '16.04.2 LTS' available.
+Run 'do-release-upgrade' to upgrade to it.
+
+
+(process:15266): dconf-WARNING **: failed to commit changes to dconf: Error spawning command line 'dbus-launch --autolaunch=0034e577a065d7fabd345205561ba0cf --binary-syntax --close-stderr': Child process exited with code 1
+
+(process:15269): dconf-WARNING **: failed to commit changes to dconf: Error spawning command line 'dbus-launch --autolaunch=0034e577a065d7fabd345205561ba0cf --binary-syntax --close-stderr': Child process exited with code 1
+
+(process:15272): dconf-WARNING **: failed to commit changes to dconf: Error spawning command line 'dbus-launch --autolaunch=0034e577a065d7fabd345205561ba0cf --binary-syntax --close-stderr': Child process exited with code 1
+]0;bhagavan@auras: /home/bhagavanbhagavan@auras:~$ 
+]0;bhagavan@auras: /home/bhagavanbhagavan@auras:~$ 
+]0;bhagavan@auras: /home/bhagavanbhagavan@auras:~$ 
+]0;bhagavan@auras: /home/bhagavanbhagavan@auras:~$ exit
+logout
+Connection closed by foreign host.
+]0;bhagavan@foreman.auradev.com: /home/bhagavan/training/scripts/python/class/R-telnetbhagavan@foreman:~/.../python/class/R-telnet$ e[Kl[Kexit
+exit
+
+Script done on Tuesday 06 June 2017 10:38:04 AM IST
