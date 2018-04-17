@@ -9,7 +9,7 @@ Created on Sat Nov 25 15:49:48 2017
 import time
 
 def decoration(func):
-    def inner():
+    def inner(value):
         start_time = time.time()
         print(start_time)
         func(value)
